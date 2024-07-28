@@ -9,17 +9,17 @@ import java.util.logging.Logger;
  */
 public class TransportBean {
 
-    private static final String infServerTest = "https://lww-vt01.lvrintern.lvr.de";
-    private static final String infServerQs   = "https://inf-vq01.lvrintern.lvr.de";
-    private static final String infServerInt  = "https://inf-vi01.lvrintern.lvr.de";
-    private static final String infServerProd = "https://inf-vp01.lvrintern.lvr.de";
+    private static final String infServerTest = "https://server-vt01.subdomain.domain.tld";
+    private static final String infServerQs   = "https://server-vq01.subdomain.domain.tld";
+    private static final String infServerInt  = "https://server-vi01.subdomain.domain.tld";
+    private static final String infServerProd = "https://server-vp01.subdomain.domain.tld";
 
-    private static final String tokenServerQs  = "https://verbundsystem-q.lvrintern.lvr.de/security-token-service/tokens";
-    private static final String tokenServerInt = "https://verbundsystem-i.lvrintern.lvr.de/security-token-service/tokens";
+    private static final String tokenServerQs  = "https://alias.subdomain.domain.tld/security-token-service/tokens";
+    private static final String tokenServerInt = "https://alias.subdomain.domain.tld/security-token-service/tokens";
 
     private static final String infPE = "/infinica-process-engine/rest/run/?processUri=transport/extern_itxDeploymentProcess.ipd";
 
-    private static final String schluessel = "WjEzQU5MMDM6TGFiZXJMYWJlcmJhbUJBTTQyOkphYmJhZGFiYWR1";
+    private static final String schluessel = "MeinGanzPrivaterSchluesselBase64Decodiert";
 
     private static final Logger logger = Logger.getLogger(TransportBean.class.getCanonicalName());
 

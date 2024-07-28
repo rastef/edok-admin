@@ -54,7 +54,7 @@
     </dependencies>
 
     <build>
-        <finalName>admin</finalName>
+        <finalName>edok-admin</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
