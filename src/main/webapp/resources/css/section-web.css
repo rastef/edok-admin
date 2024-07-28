@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body section table {
+	width: 100%;
+}
+
+body section th {
+	background-color: #D1EEEE;
+}
+
+body section tr:nth-child(odd) {
+	background-color: #E0FFFF
+}
+
+body section tr:nth-child(even) {
+	background-color: #D1EEEE
+}
+
+body section tr:hover:nth-child(odd) {
+	background-color: #B0FFFF
+}
+
+body section tr:hover:nth-child(even) {
+	background-color: #A6EDED
+}
+

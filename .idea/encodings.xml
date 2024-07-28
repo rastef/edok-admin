@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file:///run/user/1000/gvfs/smb-share:server=fritz.box,share=fritz.nas/Workspace/SQL/EDOK-create_Vorlagenbaum.plsql" charset="ISO-8859-1" />
+    <file url="file:///run/user/1000/gvfs/smb-share:server=fritz.box,share=fritz.nas/Workspace/SQL/edok_t.sql" charset="ISO-8859-1" />
+    <file url="file:///run/user/1000/gvfs/smb-share:server=fritz.box,share=fritz.nas/Workspace/SQL/mdt_edok_values_iso.sql" charset="ISO-8859-1" />
+  </component>
+</project>

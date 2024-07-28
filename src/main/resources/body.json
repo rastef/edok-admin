@@ -1,0 +1,40 @@
+{
+  "dataStore": {
+    "entry": [
+      {
+        "name": "itxUrls",
+        "type": "text/plain",
+        "value": [
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/sosa_erbe/anford_grundbuchauszug_uebertragungsvertrag.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/sosa_erbe/anforderung_sterbeurkunde.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/sosa_erbe/anfrage_erbschaftssteuerstelle.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/sosa_erbe/anfrage_nachlassgericht.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/sosa_erbe/anfrage_betreuer_angehoerige.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/mobilitaet/anlage_kfz.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/mobilitaet/bewilligung_kfz.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/mobilitaet/bewilligung_kfz_instandhaltung.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/mobilitaet/bewilligung_kfz_umbau.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/mobilitaet/eingangsbestaetigung_mobilitaet.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/mobilitaet/egh_antrag.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/hilfsmittel_soz_teilhabe/bewilligung_hilfsmittel.itx",
+          "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/vorlagen/mandant_709/hilfsmittel_soz_teilhabe/eingangsbestaetigung_hilfsmittel.itx"
+        ]
+      },
+      {
+        "name": "targetServerUrl",
+        "type": "text/plain",
+        "value": "https://inf-vq01.lvrintern.lvr.de"
+      },
+      {
+        "name": "deepCopy",
+        "type": "text/plain",
+        "value": "true"
+      },
+      {
+        "name": "projectBaseUrl",
+        "type": "text/plain",
+        "value": "https://lww-vt01.lvrintern.lvr.de/infinica-content-repository/anlei/schreiben/dez_5/"
+      }
+    ]
+  }
+}

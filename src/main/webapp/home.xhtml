@@ -1,0 +1,40 @@
+<ui:composition 
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:jsf="http://xmlns.jcp.org/jsf"
+	xmlns:comp="http://xmlns.jcp.org/jsf/composite"
+	template="/WEB-INF/templates/main.xhtml">
+
+	<ui:define name="header">Kleine Behelfs-App <span style="font-style: italic;font-weight: bold;">eDok Admin</span></ui:define>
+	
+	<ui:define name="css">
+		ul { list-style-type: none; }
+	</ui:define>
+	
+	<ui:define name="main">
+		<div style="max-height: 500px; overflow-y: scroll;">
+	  	<ul>
+			<li>1. Vorlagen transportieren
+				<ul>
+					<li><a href="#{request.contextPath}/transport/dez4.jsf">Dezernat 4</a></li>
+					<li><a href="#{request.contextPath}/transport/dez5.jsf">Dezernat 5</a></li>
+					<li><a href="#{request.contextPath}/transport/dez7.jsf">Dezernat 7</a></li>
+				</ul>
+			</li>
+		</ul>
+		<p/>
+		<ul>
+			<li>2 Neue Vorlagen installieren
+				<ul>
+					<li><a href="#{request.contextPath}/install/dez4.jsf">Dezernat 4</a></li>
+					<li><a href="#{request.contextPath}/install/dez5.jsf">Dezernat 5</a></li>
+					<li><a href="#{request.contextPath}/install/dez7.jsf">Dezernat 7</a></li>
+				</ul>
+			</li>
+		</ul>
+		</div>
+	</ui:define>
+
+</ui:composition>

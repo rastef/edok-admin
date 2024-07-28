@@ -1,0 +1,13 @@
+vorlagen/mandant_709/sosa_erbe/anford_grundbuchauszug_uebertragungsvertrag.itx
+vorlagen/mandant_709/sosa_erbe/anforderung_sterbeurkunde.itx
+vorlagen/mandant_709/sosa_erbe/anfrage_erbschaftssteuerstelle.itx
+vorlagen/mandant_709/sosa_erbe/anfrage_nachlassgericht.itx
+vorlagen/mandant_709/sosa_erbe/anfrage_betreuer_angehoerige.itx
+vorlagen/mandant_709/mobilitaet/anlage_kfz.itx
+vorlagen/mandant_709/mobilitaet/bewilligung_kfz.itx
+vorlagen/mandant_709/mobilitaet/bewilligung_kfz_instandhaltung.itx
+vorlagen/mandant_709/mobilitaet/bewilligung_kfz_umbau.itx
+vorlagen/mandant_709/mobilitaet/eingangsbestaetigung_mobilitaet.itx
+vorlagen/mandant_709/mobilitaet/egh_antrag.itx
+vorlagen/mandant_709/hilfsmittel_soz_teilhabe/bewilligung_hilfsmittel.itx
+vorlagen/mandant_709/hilfsmittel_soz_teilhabe/eingangsbestaetigung_hilfsmittel.itx

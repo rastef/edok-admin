@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+html {
+	background: #FFFFFF;
+}
+
+body {
+	font-family: Arial;
+	height: 100%;
+	min-width: 300px;
+	margin: 10px;
+	padding: 10px;
+	color: #000000;
+}
+
+header {
+	border: 2px solid #000000;
+	margin: 10px;
+	padding: 10px;
+	color: #FFFFFF;
+	background-color: #005d89;
+	text-align: center;
+}
+
+section {
+	border: 2px solid #005d89;
+	margin: 10px;
+	padding: 10px;
+}
+
+footer {
+	border: 2px solid #000000;
+	margin: 10px;
+	padding: 10px;
+	color: #ffffff;
+	background-color: #005d89;
+	text-align: center;
+}
+
+	
+select {
+	-webkit-appearance: none;
+  	-moz-appearance: none;
+  	appearance: none;
+
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  	background-color: #ebf9ff;
+	font-size: 0.9em;
+  	/* background: transparent; */
+	/*
+  	border: 1px solid #111;
+  	margin: 3px;
+  	font-size: 0.9em;
+  	padding: 1px 1px 1px 1px;
+	*/
+}
+
+
+input[type=button], input[type=submit], button {
+	color: #ffffff;
+	background-color: #005d89;
+	border: 1px solid #111;
+	margin: 3px;
+	font-size: 0.9em;
+	padding: 2px 2px 2px 2px;
+}
+
+input[type=button]:hover, input[type=submit]:hover {
+	background-color: #005d89;
+/* 	border: 1px solid #111; */
+/* 	font-size: 0.9em; */
+}
+
+input[type=text] {
+	font-size: 90%;
+	margin: 3px;
+}
+

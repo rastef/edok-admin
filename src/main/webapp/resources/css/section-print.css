@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* Layout für Screen-Shots im Buch */
+
+body section table {
+	margin: 0 auto;
+	table-layout: fixed;
+	width: 42em;
+	border-collapse: collapse;
+	word-break: break-all;
+}
+
+body section table table {
+	width: 100%;
+}
+
+body section table th, body section table td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+/* body section table tr td:nth-child(1), */
+/* body section table tr td:nth-child(2) { */
+/* 	width: 50%; */
+/* } */
+
+
+/* body section table tr td:nth-child(1) { */
+/* 	width: 50%; */
+/* } */
+/* body section table tr td:nth-child(2) { */
+/* 	width: 50%; */
+/* } */
+
+
+
+body section table tr td table tr td:nth-child(1),
+body section table tr td table tr td:nth-child(2), 
+body section table tr td table tr td:nth-child(3), 
+body section table tr td table tr td:nth-child(4),
+body section table tr td table tr td:nth-child(5),
+body section table tr td table tr td:nth-child(6),
+body section table tr td table tr td:nth-child(7),
+body section table tr td table tr td:nth-child(8),
+body section table tr td table tr td:nth-child(9),
+body section table tr td table tr td:nth-child(10) {
+	width: 5%;
+}
